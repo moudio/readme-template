@@ -41,11 +41,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+👤 **Mouhamadou Diouf**
+
+- Github: [@MouhaDiouf](https://github.com/MouhaDiouf)
+- Twitter: [@mouhamadiouf](https://twitter.com/mouhamadiouf)
+- Linkedin: [Mouhadiouf](https://linkedin.com/mouhadiouf)
 
 👤 **Author2**
 
